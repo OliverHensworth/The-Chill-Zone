@@ -1,0 +1,24 @@
+{
+  "name": "the-chill-zone",
+  "version": "1.0.0",
+  "description": "Discord bot ",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverHensworth/The-Chill-Zone.git"
+  },
+  "author": "OliverHensworth",
+  "bugs": {
+    "url": "https://github.com/OliverHensworth/The-Chill-Zone/issues"
+  },
+  "homepage": "https://github.com/OliverHensworth/The-Chill-Zone#readme",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "^0.9.0",
+    "path": "^0.12.7"
+  }
+}
