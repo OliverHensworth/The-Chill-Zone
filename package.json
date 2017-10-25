@@ -15,7 +15,8 @@
     "url": "https://github.com/OliverHensworth/The-Chill-Zone/issues"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=8",
+    "npm": "5.3.0"
   },
   "homepage": "https://github.com/OliverHensworth/The-Chill-Zone#readme",
   "license": "MIT",
